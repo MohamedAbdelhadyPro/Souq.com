@@ -19,9 +19,9 @@ public class Database {
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
         StrictMode.setThreadPolicy(policy);
 
-        String ServerName = "jdbc:jtds:sqlserver://den1.mssql6.gear.host/naderapp";
-        String DBName = "naderapp";
-        String DBPass = "Eo2kH40!~S4b";
+        String ServerName = "jdbc:jtds:sqlserver://den1.mssql6.gear.host/souqc";
+        String DBName = "souqc";
+        String DBPass = "Ahmed.19";
 
         try {
             Class.forName("net.sourceforge.jtds.jdbc.Driver");
