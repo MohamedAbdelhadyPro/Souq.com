@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1037934058783",
+    "firebase_url": "https://nader-2de3f.firebaseio.com",
+    "project_id": "nader-2de3f",
+    "storage_bucket": "nader-2de3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037934058783:android:af8c546aa5c79c20",
+        "android_client_info": {
+          "package_name": "nader.com.example.mohamedabdelhady.tasks.nader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037934058783-ri26bcc5qrmhnr7cvo5jma04ervm9ue5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nader.com.example.mohamedabdelhady.tasks.nader",
+            "certificate_hash": "c3a21ef3bf5e0cbb6780abd7f8b766f2ed0188b1"
+          }
+        },
+        {
+          "client_id": "1037934058783-rgbm90o41jaoh7v2jnnv23vn6gjev84e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR9Xb3NEoSYx8FUYYmpmQTjfDfBEgFvBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037934058783-rgbm90o41jaoh7v2jnnv23vn6gjev84e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
